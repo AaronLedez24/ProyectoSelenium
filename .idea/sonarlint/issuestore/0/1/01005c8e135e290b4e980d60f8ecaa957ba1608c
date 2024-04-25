@@ -1,0 +1,33 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÚÅþüÿÿÿÿ8Ô¹­æð1
+r	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¸ÄØÿÿÿÿÿ8Ðã®æð1
+r	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÚÅþüÿÿÿÿ8èÛ½æð1
+r	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¸ÄØÿÿÿÿÿ8êÛ½æð1
+7
+java:S1220""Move this file to a named package.8Õ¹­æð1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ì§í8â¹­æð1
+R
+java:S1854"6Remove this useless assignment to local variable "p3".(¶Õé88ã¹­æð1
+X
+java:S1854"6Remove this useless assignment to local variable "p2".( üÒÃûÿÿÿÿ8ã¹­æð1
+U
+java:S1854"8Remove this useless assignment to local variable "home".(º¢”Ë8ã¹­æð1
+F
+java:S1481")Remove this unused "home" local variable.(º¢”Ë8ä¹­æð1
+I
+java:S1481"'Remove this unused "p2" local variable.( üÒÃûÿÿÿÿ8ä¹­æð1
+C
+java:S1481"'Remove this unused "p3" local variable.(¶Õé88ä¹­æð1
+j	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽëÕ†8Œ©¾æð1
+R
+java:S1854M"6Remove this useless assignment to local variable "p3".(¶Õé88”Ü½æð1
+X
+java:S1854L"6Remove this useless assignment to local variable "p2".( üÒÃûÿÿÿÿ8”Ü½æð1
+U
+java:S1854J"8Remove this useless assignment to local variable "home".(º¢”Ë8”Ü½æð1
+F
+java:S1481J")Remove this unused "home" local variable.(º¢”Ë8’©¾æð1
+I
+java:S1481L"'Remove this unused "p2" local variable.( üÒÃûÿÿÿÿ8”©¾æð1
+C
+java:S1481M"'Remove this unused "p3" local variable.(¶Õé88–©¾æð1

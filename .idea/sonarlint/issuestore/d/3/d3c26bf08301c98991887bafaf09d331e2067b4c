@@ -1,0 +1,25 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8ÊÔ¯æð1
+7
+java:S1220""Move this file to a named package.8ËÔ¯æð1
+h
+java:S1223	"LRename this method to prevent any misunderstanding or make it a constructor.(º™Ú78ËÔ¯æð1
+L	java:S106
+"+Replace this use of System.out by a logger.(ïÏ¢³ûÿÿÿÿ8ÐÔ¯æð1
+]	java:S125"<This block of commented-out lines of code should be removed.(¶É€ûÿÿÿÿ8–¾ì™ñ1
+X	java:S125"<This block of commented-out lines of code should be removed.(í¿“¨8«á¶æð1
+]	java:S125$"<This block of commented-out lines of code should be removed.(Ùöëòúÿÿÿÿ8¹ì¹…ñ1
+X	java:S125("<This block of commented-out lines of code should be removed.(“þ‰‡8·¶æð1
+]	java:S125,"<This block of commented-out lines of code should be removed.(¦¹êšüÿÿÿÿ8Ú¯Åæð1
+X	java:S1250"<This block of commented-out lines of code should be removed.(ÚŠ²þ8ÓæÐèð1
+X	java:S1254"<This block of commented-out lines of code should be removed.(Ã¹¨á8­Äü„ñ1
+S
+java:S1128"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰8åêã™ñ1
+P
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠÞ›8åêã™ñ1
+W
+java:S1128":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ8åêã™ñ1
+]
+java:S1128";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”þÿÿÿÿ8åêã™ñ1
+]
+java:S1128"@Remove this unused import 'org.openqa.selenium.edge.EdgeDriver'.(ìÅ°°8åêã™ñ1

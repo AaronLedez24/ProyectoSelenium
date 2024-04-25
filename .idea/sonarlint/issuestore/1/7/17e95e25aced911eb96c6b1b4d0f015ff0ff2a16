@@ -1,0 +1,22 @@
+
+”
+java:S1192"rDefine a constant instead of duplicating this literal "//*[@id=\"signInModal\"]/div/div/div[3]/button[2]" 3 times.(Ï‰ãëşÿÿÿÿ8§«®Şğ1
+k
+java:S1192"NDefine a constant instead of duplicating this literal "sign-password" 3 times.(›ÜĞã8§«®Şğ1
+e
+java:S1192"HDefine a constant instead of duplicating this literal "signin2" 4 times.(Ã™»8§«®Şğ1
+p
+java:S1192"NDefine a constant instead of duplicating this literal "sign-username" 3 times.(Ö‚¨øÿÿÿÿ8§«®Şğ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‚¨øÿÿÿÿ8¨«®Şğ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÜĞã8¨«®Şğ1
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‚¨øÿÿÿÿ8¨«®Şğ1
+m	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÜĞã8¨«®Şğ1
+r	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‚¨øÿÿÿÿ8¨«®Şğ1
+m	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÜĞã8¨«®Şğ1
+r	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂŒìêøÿÿÿÿ8ÿ¥²Şğ1
+7
+java:S1220""Move this file to a named package.8¨«®Şğ1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¢Çáúÿÿÿÿ8´«®Şğ1
+j	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÏˆœ8˜¿¹Şğ1
+o	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÕšúÿÿÿÿ8š¿¹Şğ1
+j	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÏğÉ8›¿¹Şğ1

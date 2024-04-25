@@ -1,0 +1,21 @@
+
+7
+java:S1220""Move this file to a named package.8»”Οεπ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ηβ Έ8Ξ”Οεπ1
+R
+java:S1854"6Remove this useless assignment to local variable "p3".(¶Υι88Ξ”Οεπ1
+X
+java:S1854"6Remove this useless assignment to local variable "p2".( όÒΓϋÿÿÿÿ8λεχεπ1
+U
+java:S1854"8Remove this useless assignment to local variable "home".(ΊΆ”Λ8λεχεπ1
+F
+java:S1481")Remove this unused "home" local variable.(ΊΆ”Λ8λεχεπ1
+I
+java:S1481"'Remove this unused "p2" local variable.( όÒΓϋÿÿÿÿ8λεχεπ1
+C
+java:S1481"'Remove this unused "p3" local variable.(¶Υι88Ο”Οεπ1
+j	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Λόί 8Ψ‰φεπ1
+R
+java:S18547"6Remove this useless assignment to local variable "p3".(¶Υι88λεχεπ1
+C
+java:S14817"'Remove this unused "p3" local variable.(¶Υι88μεχεπ1
